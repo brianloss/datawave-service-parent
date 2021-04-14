@@ -8,13 +8,13 @@
         <relativePath />
     </parent>
     <artifactId>datawave-microservice-service-parent</artifactId>
-    <version>2.0-fork-SNAPSHOT</version>
+    <version>2.0-fork</version>
     <packaging>pom</packaging>
     <name>DataWave Microservices Spring Boot Service Parent</name>
     <scm>
         <connection>scm:git:https://github.com/brianloss/datawave-service-parent.git</connection>
         <developerConnection>scm:git:git@github.com:brianloss/datawave-service-parent.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>2.0-fork</tag>
         <url>https://github.com/brianloss/datawave-service-parent</url>
     </scm>
     <properties>
